@@ -34,17 +34,17 @@ That's all.
 ## Preview
 
 {% capture images %}
-	asd.png
-	asd.png
-	asd.png
+	https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/home1.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/home2.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/allpost.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Rocket Space Theme" cols=3 %}
 
 ---
 
 {% capture images %}
-	asd.png
-	asd.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/post1.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/home2.png
 {% endcapture %}
 {% include gallery images=images caption="Rocket Space Theme on Small Screen Size" cols=2 %}      
       

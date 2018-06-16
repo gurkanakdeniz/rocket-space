@@ -22,8 +22,8 @@ comments: false
 ## Preview
 
 {% capture images %}
-    asd.png
-    asd.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/home1.png
+https://raw.githubusercontent.com/gurkanakdeniz/rocket-space/master/assets/img/screenshots/post1.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Rocket Space Theme" cols=2 %}
 
