@@ -113,8 +113,17 @@ body {
 	}
 }
 
+.sticky-position {
+	position : sticky !important;
+}
+.ios-position {
+	position: fixed !important;
+	top: 0 !important;
+	left: 0 !important;
+}
+
 .container-circle-top {
-  position: sticky;
+  //position: sticky !important;
   left: 30%;
   top: 20%;
   margin-left: -60px;
