@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "RESTful Web Service Invoker (Spring Boot)"
+date:   2020-02-18
+excerpt: "RESTful Web Service Invoker (Spring Boot)"
+project: true
+tag:
+- spring boot 
+- rest services
+comments: true
+---
+
 # RESTful Web Service Invoker (Spring Boot)
 
 RESTful Web Service Invoker that binds remote rest services to java interfaces similarily to how InvocationHandler works. 
